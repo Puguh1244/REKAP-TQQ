@@ -1,0 +1,11 @@
+[server]
+maxUploadSize = 1000
+enableXsrfProtection = true
+enableCORS = false
+
+[client]
+showErrorDetails = true
+
+[theme]
+base = "light"
+primaryColor = "#0b5394"
